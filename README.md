@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040001
+# Name: M AADHAVAN NAGARAJAN
+# Date: 27/8/2026
 
 
 # AIM:
@@ -29,6 +29,9 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -40,7 +43,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
+<img width="1243" height="901" alt="image" src="https://github.com/user-attachments/assets/c6b61e2d-9917-44e5-bf9c-32fb0e19a0c2" />
 
 
 
@@ -59,6 +62,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1263" height="977" alt="image" src="https://github.com/user-attachments/assets/d2ae3a5a-b661-4af1-85ea-93469ebb47db" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1261" height="973" alt="image" src="https://github.com/user-attachments/assets/452d9a25-8fd6-41ed-85a9-0a6763ef5a8f" />
 
 
 
@@ -79,6 +84,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1254" height="972" alt="image" src="https://github.com/user-attachments/assets/97adaea9-7d8e-4f90-8061-f03d3049c787" />
 
 
 
@@ -98,6 +104,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1261" height="977" alt="image" src="https://github.com/user-attachments/assets/5042b1c2-75d1-4fba-84f5-bbda7d2712da" />
 
 
 
@@ -119,6 +126,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1259" height="974" alt="image" src="https://github.com/user-attachments/assets/8f8b1373-296a-478d-a9f1-2728325dc819" />
 
 
 
